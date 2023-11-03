@@ -105,9 +105,6 @@ Route::get('/signout', [AuthController::class,'logout'])->name('signout');
 
 //  });
 
-// -------*-----
-// iam adding some extra comments yoo
-
 //Route::view('table','/table');
 
 // Route::get('/hello2', function () {
